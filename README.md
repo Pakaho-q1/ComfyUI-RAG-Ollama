@@ -45,6 +45,7 @@ Before using RAG mode, you need a Vector Database.
 3.  **Enjoy:** Type a simple concept like "cat warrior" and watch the magic!
 
 ## 🙏 Credits
+* Powered by [ollama](https://ollama.com/)
 * Powered by [facebook/contriever-msmarco](https://huggingface.co/facebook/contriever-msmarco)
 * Prompt datasets from [Gustavosta](https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts)
 * Prompt datasets from [k-mktr](https://huggingface.co/datasets/k-mktr/improved-flux-prompts-photoreal-portrait)
