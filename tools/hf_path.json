@@ -1,0 +1,9 @@
+{
+    "dataset_name": "lehduong/flux_generated",
+    "column_name": "caption_caption",
+    "limit": 0,                   
+    "output_name": "lehduong_00000-50000",
+    
+    "start_row": 0,     
+    "end_row": 50000      
+}
