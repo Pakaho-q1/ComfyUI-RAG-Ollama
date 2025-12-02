@@ -31,7 +31,7 @@ An advanced **Retrieval-Augmented Generation (RAG)** node for ComfyUI. It uses *
 Before using RAG mode, you need a Vector Database.
 
 **Option A: Download Pre-built (Easy)**
-1.  Download `.pt` and `.json` files from [My Hugging Face Repo]([LINK_TO_YOUR_HF_FROM_STEP_1](https://huggingface.co/Pakaho-q1/ComfyUI-RAG-Database)).
+1.  Download `.pt` and `.json` files from [My Hugging Face Repo](https://huggingface.co/Pakaho-q1/ComfyUI-RAG-Database).
 2.  Put them inside `ComfyUI-RAG-Ollama/assets/`.
 
 **Option B: Build Your Own (Advanced)**
